@@ -48,3 +48,13 @@ Examples: `$ cat opcodetestfile.m `
 `push 3 `
 
 `pall `
+
+`$ ./montyfile opcodetestfile.m `
+
+`3 `
+
+`2 `
+
+`1 `
+
+`$ `
