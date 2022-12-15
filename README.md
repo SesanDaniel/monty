@@ -15,4 +15,5 @@ A language interpreter made in the C programming language to manage stacks and q
 + You are expected to do the tasks in the order shown in the project
 # Compilation
 To compile this project, you can use the following command:
+
 $ make
