@@ -88,4 +88,5 @@ Examples: `$ cat opcodetestfile.m `
 
 `3 `
 
-#Exit Status
+# Exit Status
+Exits with status EXIT_FAILURE
