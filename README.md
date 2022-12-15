@@ -59,3 +59,5 @@ Examples: `$ cat opcodetestfile.m `
 
 `$ `
 <br>
+
+$ cat opcodetestfile.m
