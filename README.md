@@ -89,4 +89,7 @@ Examples: `$ cat opcodetestfile.m `
 `3 `
 
 # Exit Status
-Exits with status EXIT_FAILURE
+  Exit with status EXIT_FAILURE
+# Compilation
+ All files were compiled on Ubuntu 14.04 LTS.
+ `All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werror -Wextra and -pedantic. `
