@@ -2,7 +2,7 @@
 A language interpreter made in the C programming language to manage stacks and queues (LIFO and FIFO). The aim is to interpret Monty bytecodes files. [Monty](http://montyscoconut.github.io/) is a language that aims to close the gap between scripting and programming languages.
 # Requirements
 -Allowed editors: vi, vim, emacs
--All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c90
++All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c90
 -All your files should end with a new line
 -A README.md file, at the root of the folder of the project is mandatory
 -Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
