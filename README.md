@@ -58,6 +58,6 @@ Examples: `$ cat opcodetestfile.m `
 `1 `
 
 `$ `
-<br>
+<hr>
 
 $ cat opcodetestfile.m
