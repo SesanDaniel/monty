@@ -39,4 +39,8 @@ $ make
 | `queue, stack`| toggles the doubly link list implementation style                    |
 | `nop`         | opcode should do nothing                                             |
 
-Examples: `$ cat opcodetestfile.m`
+Examples: `$ cat opcodetestfile.m `
+`push 1 `
+`push 2 `
+`push 3 `
+`pall `
