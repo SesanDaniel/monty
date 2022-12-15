@@ -18,3 +18,8 @@ To compile this project, you can use the following command:
 ```
 $ make
 ```
+# Allowable opcodes and what they do
+| opcode        | functionality 
+| ------------- | ------------- |
+| `John`        | Test1         |
+| `Bob`         | Test2         |
