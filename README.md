@@ -20,18 +20,29 @@ $ make
 ```
 # Allowable opcodes and what they do
 | opcode        | functionality 
-| ------------- | ------------- |
-| `John`        | Test1         |
-| `Bob`         | Test2         |
-| ------------- | ------------- |
-| `John`        | Test1         |
-| `Bob`         | Test2         |
-| ------------- | ------------- |
-| `John`        | Test1         |
-| `Bob`         | Test2         |
-| ------------- | ------------- |
-| `John`        | Test1         |
-| `Bob`         | Test2         |
-| ------------- | ------------- |
-| `John`        | Test1         |
-| `Bob`         | Test2         |
+|               |               |
+| `pop`         | Test1         |
+| `push`        | Test2         |
+|               |               |
+| `pall`        | Test1         |
+| `pint`        | Test2         |
+|               |               |
+| `swap`        | Test1         |
+| `add`         | Test2         |
+|               |               |
+| `sub`         | Test1         |
+| `div`         | Test2         |
+|               |               |
+| `mul`         | Test1         |
+| `mod`         | Test2         |
+|               |               |
+| `comment`     | Test1         |
+| `pchar`       | Test2         |
+|               |               |
+| `pstr`        | Test1         |
+| `rotl`        | Test2         |
+|               |               |
+| `rotr`        | Test1         |
+| `queue, stack`| Test2         |
+| `nop`         | Test2         |
+
